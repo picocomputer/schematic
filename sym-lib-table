@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP6502")(type "KiCad")(uri "${KIPRJMOD}/rp6502.kicad_sym")(options "")(descr "Picocomputer Symbols"))
+)
