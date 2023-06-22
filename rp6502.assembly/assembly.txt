@@ -1,0 +1,23 @@
+This is a board of sockets and connectors. No active components.
+Everything is thru-hole. PCB is optimized for hand assembly.
+The attached photo.jpg shows a fully assembled board.
+There is a video of me assembling this on YouTube:
+https://youtu.be/bwgLXEQdq20
+
+The four corner holes are for mounting and must be masked for wave soldering.
+
+U2 and U4 are header sockets for a special IC, the Raspberry Pi Pico.
+The dual 1x20 header sockets must be perpendicular to the board.
+U2 has two additional 1x3 sockets the must be perpendicular to the board.
+Alignment "by eye" is good enough if the assembler is careful.
+
+All parts are available from multiple vendors. Feel free to suggest cheaper
+or more available options. Capacitor tolerance and temp type does not matter
+if voltage is >= 10V. Resistors may be any wattage but must be <= 1%.
+J1 and J2 must be gold. U1-U8 may be tin.
+
+The silkscreen on the back of the board has component values that I use for
+manual assembly and testing. You may depend on this if you choose to use it.
+With a multimeter set to ohms, test each passive from the back of the board:
+ - All capacitors must test as > 50 ohm - not shorted.
+ - All resistors must test as the value silkscreened.

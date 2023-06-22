@@ -1,0 +1,22 @@
+Item#,Designator,Qty,Mfr Name,Mfr Part Number,Description
+1,"C1-C9, C11",10,Vishay,A104M15X7RF5TAA,0.1uF Axial Ceramic Capacitor >=10V
+2,"C10, C12",2,TDK,FG26X5R1E476MRT00,47uF Radial Ceramic Capacitor >=10V
+3,"R1, R6, R11, R18",4,YAGEO,MFR-25FBF52-8K06,8.06k resistor 1%
+4,"R2, R7, R12",3,YAGEO,MFR-25FBF52-4K02,4.02k resistor 1%
+5,"R3, R8, R13",3,YAGEO,MFR-25FBF52-2K,2k resistor 1%
+6,"R4, R9, R14",3,YAGEO,MFR-25FBF52-1K,1k resistor 1%
+7,"R5, R10, R15",3,YAGEO,MFR-25FBF52-499R,499 ohm resistor 1%
+8,"R16, R17",2,YAGEO,MFR-25FBF52-47R,47 ohm resistor 1%
+9,"R19, R22",2,YAGEO,MFR-25FBF52-220R,220 ohm resistor 1%
+10,"R20, R23",2,YAGEO,MFR-25FBF52-100R,100 ohm resistor 1%
+11,"R21, R24",2,YAGEO,MFR-25FBF52-1K8,1.8k resistor 1%
+12,J1,1,Amp,10129381-924001BLF,2x12 Pin Header
+13,J2,1,Amp,10129381-912001BLF,2x6 Pin Header
+14,J3,1,Amp,L77HDE15SD1CH4FVGA,VGA Jack
+15,J4,1,CUI,SJ1-3525NG-GR,Audio Jack
+16,REBOOT,1,CUI,TS11-674-43-BK-160-RA-D,Tactile Button
+17,"U1, U5",2,TE,1-2199299-5,40-pin IC Socket
+18,U3,1,TE,1-2199300-2,32-pin IC Socket
+19,"U6, U7, U8",3,TE,1-2199298-3,14-pin IC Socket
+20,"U2, U4",4,Wurth,61302011821,20 Pin Header Socket
+21,U2,2,Adam Tech,RS1-03-G,3 Pin Header Socket
