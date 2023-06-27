@@ -7740,7 +7740,7 @@
     (property "Value" "AUDIO" (at 132.08 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal" (at 130.81 193.04 0)
+    (property "Footprint" "rp6502:Jack_3.5mm_CUI_SJ1-3525N_Horizontal" (at 130.81 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.81 193.04 0)
