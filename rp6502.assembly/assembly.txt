@@ -1,19 +1,18 @@
-This is a board of sockets and connectors. No active components.
-See photo.jpg for a fully assembled board.
-There is an assembly video on YouTube:
-https://youtu.be/bwgLXEQdq20
+This is a board of sockets and connectors with no active components.
+There is no centroid file because there are no surface mount components.
+See photo1.jpg and photo2.jpg for a fully assembled board.
 
 The four corner holes are for mounting and must be masked for wave soldering.
 
 U2 and U4 are sockets made from multiple parts. Care must be taken to keep
 the sockets perpendicular to the board. Alignment "by eye" is good enough.
 
-All parts may be substituted. VGA connector must be blue or black. Audio
-connector must be green or black. Capacitor tolerance and temp type does not
+All parts may be substituted. VGA connector J3 must be blue or black. Audio
+connector J4 must be green or black. Capacitor tolerance and temp does not
 matter if voltage is >= 10V. Resistors may be any wattage but must be <= 1%.
-J1 and J2 must be gold. U1-U8 may be tin.
+J1 and J2 connectors must be gold. U1-U8 sockets may be tin.
 
 The silkscreen on the back of the board may be used for testing.
 With a multimeter set to ohms, test each passive from the back of the board:
- - All capacitors must test as > 50 ohm - not shorted.
- - All resistors must test as the value silkscreened.
+ - All capacitors must not be shorted - test as > 50 ohm.
+ - All resistors must test within 1% of the value silkscreened.
