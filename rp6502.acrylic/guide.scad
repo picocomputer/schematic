@@ -30,16 +30,16 @@ module holes() {
     translate([-70,-50,+45])
     rotate([-90,0,0])
     cylinder(h=100, d=3);
-    translate([-50,-50,-38])
+    translate([-50,-50,-37.6])
     rotate([-90,0,0])
     cylinder(h=100, d=2.5);
-    translate([+56.9,-50,-38])
+    translate([+56.9,-50,-37.6])
     rotate([-90,0,0])
     cylinder(h=100, d=2.5);
-    translate([50,-50,38])
+    translate([50,-50,37.6])
     rotate([-90,0,0])
     cylinder(h=100, d=2.5);
-    translate([-56.9,-50,38])
+    translate([-56.9,-50,37.6])
     rotate([-90,0,0])
     cylinder(h=100, d=2.5);
    
